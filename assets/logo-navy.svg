@@ -1,0 +1,25 @@
+<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 360 360" role="img" aria-label="Coastal Coffee stamp logo, final navy">
+<defs>
+
+</defs>
+<circle cx="180" cy="180" r="168" fill="#123F5E"></circle>
+<circle cx="180" cy="180" r="153" fill="none" stroke="#F4E9D2" stroke-opacity="0.5" stroke-width="1"></circle>
+<circle cx="180" cy="180" r="97" fill="none" stroke="#F4E9D2" stroke-opacity="0.5" stroke-width="1"></circle>
+<path id="arcTop" d="M 63,180 A 117,117 0 0 1 297,180" fill="none"></path>
+<text font-family="'Josefin Sans',sans-serif" font-size="23" font-weight="600" letter-spacing="7" fill="#F4E9D2"><textPath href="#arcTop" startOffset="50%" text-anchor="middle">COASTAL COFFEE</textPath></text>
+<path id="arcBot" d="M 43,180 A 137,137 0 0 0 317,180" fill="none"></path>
+<text font-family="'Reem Kufi',sans-serif" font-weight="700" font-size="32" word-spacing="10" fill="#F4E9D2"><textPath href="#arcBot" startOffset="50%" text-anchor="middle">قـهـوة السـاحـل</textPath></text>
+<rect x="-4.5" y="-4.5" width="9" height="9" fill="#E0A93E" transform="translate(45 180) rotate(45)"></rect>
+<rect x="-4.5" y="-4.5" width="9" height="9" fill="#E0A93E" transform="translate(315 180) rotate(45)"></rect>
+<circle cx="80" cy="262" r="2.2" fill="#F4E9D2"></circle>
+<circle cx="280" cy="262" r="2.2" fill="#F4E9D2"></circle>
+<g transform="translate(180 191) scale(1.21) translate(-180 -191)">
+<g transform="translate(180 148)">
+<circle r="22" fill="#E0A93E"></circle>
+<path d="M0,-40 L0,-30 M28,-28 L21,-21 M40,0 L30,0 M28,28 L21,21 M0,40 L0,30 M-28,28 L-21,21 M-40,0 L-30,0 M-28,-28 L-21,-21" stroke="#E0A93E" stroke-width="2.5" stroke-linecap="round"></path>
+</g>
+<line x1="120" y1="202" x2="240" y2="202" stroke="#F4E9D2" stroke-width="2" stroke-linecap="round"></line>
+<path d="M130,224 Q140,216 150,224 T170,224 T190,224 T210,224 T230,224" fill="none" stroke="#6FB5BC" stroke-width="2.5" stroke-linecap="round"></path>
+<path d="M140,240 Q150,232 160,240 T180,240 T200,240 T220,240" fill="none" stroke="#6FB5BC" stroke-width="2.5" stroke-linecap="round"></path>
+</g>
+</svg>
